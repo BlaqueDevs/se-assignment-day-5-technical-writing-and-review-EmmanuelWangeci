@@ -164,4 +164,3 @@ To succinctly communicate a product's purpose and features:
 - Incorporate user quotes or testimonials highlighting core value
 - Use feature-benefit pairings (e.g., "Automated backups — never lose your work")
 
-This approach helps users quickly understand not just what the product does, but why it matters to them.
